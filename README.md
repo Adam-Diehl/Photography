@@ -1,4 +1,1 @@
-Fork of:
-
-p h o t o r a m a 
-====================
+My photography website is a fork of photorama. The website is arranged into themed galleries. 
